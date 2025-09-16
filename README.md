@@ -1,6 +1,6 @@
 # Multi Notes (autosave, SPA)
 
-A lightweight notes/documents application with login system (`users` table), autosave to the `documents` table, and real-time preview — all without page reloads.
+A lightweight notes/documents application with login system (`users` table), autosave to the `documents` table — all without page reloads.
 
 ## Requirements
 - PHP 8.0+
